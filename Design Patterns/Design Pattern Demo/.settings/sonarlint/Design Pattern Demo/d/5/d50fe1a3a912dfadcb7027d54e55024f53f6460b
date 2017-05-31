@@ -1,0 +1,6 @@
+
+ksquid:S1132"MMove the "Manager" string literal on the left side of this string comparison.(è›áƒ8 Ì¶Á³+
+msquid:S1132"OMove the "Developer" string literal on the left side of this string comparison.(½þµõ8 Ì¶Á³+
+osquid:S1132	"LMove the "Tester" string literal on the left side of this string comparison.(öêà¾þÿÿÿÿ8 Ì¶Á³+
+ksquid:S1132"HMove the "HR" string literal on the left side of this string comparison.(Ú¤½ëùÿÿÿÿ8 Ì¶Á³+
+Wsquid:S1118":Add a private constructor to hide the implicit public one.(Ïì¡8 Ì¶Á³+
